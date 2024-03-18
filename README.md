@@ -2,6 +2,7 @@ Step Tracking application in C Language.Implemented using Linked List.
 
 Problem Statement-
 
+
 A step tracking application lets a user calculate daily steps, set goals for a week, create groups to
 achieve group goals, and gives rewards to individuals who complete their goals. It also maintains
 leader boards to encourage people to complete steps with great rewards for top 3 individuals. It also
